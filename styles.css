@@ -1,1 +1,62 @@
 /* your code here */
+/* your code here */
+.top {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	background-color: black;
+	color: white;
+	padding: 5% 5%;
+}
+
+.link-boxes .col h4 {
+	text-decorartion: underline;
+}
+
+.col .card a {
+	text-decoration: none;
+	color: white;
+}
+
+.logo-details {
+	display: flex;
+	justify-content: flex-start; 
+}
+
+.media-icons {
+	display:flex;
+	column-gap: 5%;
+}
+
+
+.link-boxes {
+	padding-top: 0% !important;
+	padding: 5% 5%;
+	display:flex;
+	justify-content: space-between;
+	background-color: black;
+	color: white;
+}
+
+.bottom-details {
+	padding: 2%;
+	background-color: grey;
+	color: white;
+	display: flex;
+	justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
